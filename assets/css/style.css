@@ -1,3 +1,5 @@
+/* basic styling for quiz */
+
 * {
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
@@ -8,7 +10,7 @@
     --secondary: #0e57b6b9;
     --tertiary: rgb(192, 246, 253);
     --hue-neutral: 200;
-    --hue-wrong: 0;
+    --hue-incorrect: 0;
     --hue-correct: 145;
 }
 
@@ -76,14 +78,14 @@ header {
 .btn:hover {
     border-color: black;
 }
-
+/* when correct or incorrect seleciton is made, the button will change color */
 .btn.correct {
     --hue: var(--hue-correct);
     color: black;
 }
 
-.btn.wrong {
-    --hue: var(--hue-wrong);
+.btn.incorrect {
+    --hue: var(--hue-incorrect);
 }
 
 .start-btn, .next-btn, .highscores-btn {
