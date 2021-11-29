@@ -9,7 +9,8 @@ Quiz for anyone wanting to test their knowledge of Javascript fundamentals.
 * Javascript
 
 ## Website
-<!-- https://pdguerra12.github.io/Password-Generator-2.0/ -->
+https://pdguerra12.github.io/Quiz-Rated-PG/
 ---
 
-<!-- ![Password Generator](https://user-images.githubusercontent.com/92958186/142804652-98e30547-8db2-4fb8-b990-56311b6210fe.png) -->
+![JavaScript Quiz](https://user-images.githubusercontent.com/92958186/143800489-67d9834d-2d88-454c-88d1-5c74cf9bb6e4.png)
+

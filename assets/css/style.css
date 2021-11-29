@@ -26,8 +26,8 @@ body {
 
 header {
     background: var(--secondary);
-    padding: 0;
-    position: absolute; top: 0;
+    padding: 20px;
+    position: absolute; top: 50px;
     border-bottom: 5px solid var(--primary);
     width: 800px;
     max-width: 80%;
@@ -86,7 +86,7 @@ header {
     --hue: var(--hue-wrong);
 }
 
-.start-btn, .next-btn {
+.start-btn, .next-btn, .highscores-btn {
     font-size: 1.5rem;
     font-weight: bold;
     padding: 10px 20px;
