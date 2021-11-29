@@ -1,7 +1,7 @@
-# Quiz-Rated-PG
+# Javascript Quiz
 
 ## Purpose
-To create a fun and interactive quiz for anyone to take!
+Quiz for anyone wanting to test their knowledge of Javascript fundamentals.
 
 ## Built With
 * HTML
